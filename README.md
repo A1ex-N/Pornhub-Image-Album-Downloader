@@ -17,6 +17,8 @@ optional arguments:
                         Overwrite existing files (default: False)
   -s STOPAFTER, --stopAfter STOPAFTER
                         Stop after X amount of files downloaded
+  -p, --print, --no-print
+                        Print all image URLs without downloading (default: False) 
 </pre>
 
 ![example](https://i.imgur.com/cFX4I9z.jpg)
